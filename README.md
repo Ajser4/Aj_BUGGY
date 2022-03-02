@@ -13,7 +13,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/Ajser4/Aj_BUGGY
-cd wabot-aq
+cd Aj_BUGGY
 npm install
 npm update
 ```
